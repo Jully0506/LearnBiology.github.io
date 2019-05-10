@@ -1,1 +1,1 @@
-# learnbiology.github.io
+# LearnBiology.github.io
